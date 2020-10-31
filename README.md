@@ -15,7 +15,7 @@ transformam-se em informações.
 
 Quando construímos um Bd para determinada empresa, é importante fazer um levantamento 
 de necessidades e partes envolvidas que irão contribuir com dados, Essas “partes envolvidas” 
-chamamos de <entidades>. Os dados que caracterizam aquela entidade são chamados de <atributos>.
+chamamos de *entidades*. Os dados que caracterizam aquela entidade são chamados de *atributos*.
 
 Exemplo: No app Ifood, a finalidade é oferecer um serviço que disponibiliza uma lista de restaurantes delivery para clientes comprarem refeições. 
 
@@ -27,7 +27,7 @@ Exemplo: No app Ifood, a finalidade é oferecer um serviço que disponibiliza um
 | Restaurante    | nome; CNPJ; endereço; classificação |
 | Entregador(a)	 | nome; CPF; fone; tipo veículo; placa|
 
-------
+
 
 ### <Sistemas de gerenciamento>
 
