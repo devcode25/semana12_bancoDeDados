@@ -11,7 +11,7 @@ coletados isoladamente ou em conjunto (lista), após serem tratados e processado
 transformam-se em informações.
 
 
-### <Entidades e atributos>
+### Entidades e atributos
 
 Quando construímos um Bd para determinada empresa, é importante fazer um levantamento 
 de necessidades e partes envolvidas que irão contribuir com dados, Essas “partes envolvidas” 
@@ -29,7 +29,7 @@ Exemplo: No app Ifood, a finalidade é oferecer um serviço que disponibiliza um
 
 
 
-### <Sistemas de gerenciamento>
+### Sistemas de gerenciamento
 
 O Banco de dados precisa de uma estrutura de armazenamento, para poder manipular e controlar 
 as permissões existe os sistemas de gerenciamento. Existe os sistemas de gerenciamento de código aberto e código fechado. 
